@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HUD</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div id="hud-container">
+        <div class="logo-box">
+            <img src="logo.png" alt="Server Logo" id="server-logo">
+        </div>
+
+        <div class="info-box">
+            <div class="row header-row">
+                <span class="server-id">ID: <span id="sid">0</span></span>
+                <span class="citizen-id">CID: <span id="cid">...</span></span>
+            </div>
+
+            <div class="row">
+                <div class="icon green" title="Cash">$</div>
+                <div class="text" id="cash">0</div>
+            </div>
+
+            <div class="row">
+                <div class="icon blue" title="Bank">B</div>
+                <div class="text" id="bank">0</div>
+            </div>
+
+            <div class="row job-row">
+                <div class="icon gray" title="Job">J</div>
+                <div class="text">
+                    <span id="job">Unemployed</span>
+                    <span id="grade" class="grade-badge"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
