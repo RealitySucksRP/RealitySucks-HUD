@@ -1,4 +1,4 @@
-﻿# wm-hud-idmoney
+﻿# RealitySucks-HUD
 > Lightweight QBCore HUD — Player ID, Cash, Bank, Job & built-in Security Engine
 
 ![License](https://img.shields.io/badge/license-GPL--3.0-red) ![Framework](https://img.shields.io/badge/framework-QBCore-blue) ![Version](https://img.shields.io/badge/version-1.0.0-green)
@@ -19,7 +19,7 @@
 
 ## Installation
 1. Download and extract into your `resources` folder
-2. Add `ensure wm-hud-idmoney` to your `server.cfg`
+2. Add `ensure RealitySucks-HUD` to your `server.cfg`
 3. Open `server/logs.lua` and add your Discord webhook URL
 4. Replace `html/logo.png` with your own server logo
 5. Restart your server
