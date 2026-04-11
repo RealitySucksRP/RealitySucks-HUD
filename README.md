@@ -12,7 +12,7 @@
 - Fully customizable via config values in `client/main.lua`
 
 ## Preview
-> Screenshot coming soon
+![HUD Preview](PREVIEW%20HUD.png)
 
 ## Dependencies
 - [QBCore Framework](https://github.com/qbcore-framework/qb-core)
