@@ -1,4 +1,4 @@
-﻿# RealitySucks-HUD
+# RealitySucks-HUD
 > Lightweight QBCore HUD — Player ID, Cash, Bank, Job & built-in Security Engine
 
 ![License](https://img.shields.io/badge/license-GPL--3.0-red) ![Framework](https://img.shields.io/badge/framework-QBCore-blue) ![Version](https://img.shields.io/badge/version-1.0.0-green)
@@ -47,3 +47,19 @@ GPL-3.0 — Free to use, modify, and redistribute with credit.
 
 ---
 Made by [RealitySucksRP](https://github.com/RealitySucksRP) — built for the community, not for profit.
+
+---
+
+## Support This Project
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('realitysucksrp', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#fcbf47',
+    'floating-chat.donateButton.text-color': '#323842'
+  });
+</script>
+
+Or [sponsor on GitHub](https://github.com/sponsors/RealitySucksRP/signup)
