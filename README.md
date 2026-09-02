@@ -1,5 +1,7 @@
 # RealitySucks-HUD
 > Lightweight QBCore HUD — Player ID, Cash, Bank, Job & built-in Security Engine
+> 
+CHECK OUT MY TEBEX STORE: https://reality-sucks-rp-webstore.tebex.io/
 
 ![License](https://img.shields.io/badge/license-GPL--3.0-red) ![Framework](https://img.shields.io/badge/framework-QBCore-blue) ![Version](https://img.shields.io/badge/version-1.0.0-green)
 
