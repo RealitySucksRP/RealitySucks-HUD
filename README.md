@@ -1,12 +1,19 @@
 # RealitySucks-HUD
-> Lightweight QBCore HUD — Player ID, Cash, Bank, Job & built-in Security Engine
-> 
-CHECK OUT MY TEBEX STORE: https://reality-sucks-rp-webstore.tebex.io/
 
-![License](https://img.shields.io/badge/license-GPL--3.0-red) ![Framework](https://img.shields.io/badge/framework-QBCore-blue) ![Version](https://img.shields.io/badge/version-1.0.0-green)
+> Lightweight QBCore HUD — Player ID, Cash, Bank, Job and built-in Security Engine
+
+<p align="center">
+  <a href="https://reality-sucks-rp-webstore.tebex.io/category/free-scripts"><img src="https://img.shields.io/badge/BROWSE-FREE%20SCRIPTS-ff6a00?style=for-the-badge" alt="Browse RealitySucksRP free scripts on Tebex"></a>
+  <a href="https://reality-sucks-rp-webstore.tebex.io/"><img src="https://img.shields.io/badge/SHOP-FULL%20TEBEX%20STORE-111111?style=for-the-badge" alt="Browse RealitySucksRP Tebex Store"></a>
+  <a href="https://discord.gg/e9V3rPHySx"><img src="https://img.shields.io/badge/JOIN-DISCORD-5865F2?style=for-the-badge" alt="Join RealitySucksRP Discord"></a>
+</p>
+
+> I build my own FiveM scripts and complete server setups including HUDs, phones, shops, weapons, racing, customs, garages, dealerships, zombie systems, warfare and Phantom encounters.
+
+![License](https://img.shields.io/badge/license-GPL--3.0-red) ![Framework](https://img.shields.io/badge/framework-QBCore-blue)
 
 ## Features
-- Displays Server ID, Citizen ID, Cash, Bank balance, Job & Grade
+- Displays Server ID, Citizen ID, Cash, Bank balance, Job and Grade
 - Auto-hides when pause menu is open
 - `/hudid` command to toggle HUD on/off
 - Logo pulse animation on data update
@@ -44,24 +51,18 @@ Add your Discord webhook to `server/logs.lua`:
 local discordWebhook = "YOUR_WEBHOOK_HERE"
 ```
 
+## More From RealitySucksRP
+
+FiveM systems, complete server builds and the full catalog:
+
+**Tebex:** https://reality-sucks-rp-webstore.tebex.io/
+
+**Website:** https://realitysucksrp.github.io/
+
+**Discord:** https://discord.gg/e9V3rPHySx
+
 ## License
 GPL-3.0 — Free to use, modify, and redistribute with credit.
 
 ---
-Made by [RealitySucksRP](https://github.com/RealitySucksRP) — built for the community, not for profit.
-
----
-
-## Support This Project
-
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('realitysucksrp', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#fcbf47',
-    'floating-chat.donateButton.text-color': '#323842'
-  });
-</script>
-
-Or [sponsor on GitHub](https://github.com/sponsors/RealitySucksRP/signup)
+Made by [RealitySucksRP](https://github.com/RealitySucksRP).
