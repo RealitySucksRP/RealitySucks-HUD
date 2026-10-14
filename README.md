@@ -1,5 +1,13 @@
 # RealitySucks-HUD
 
+<!-- RS community links -->
+
+Free lightweight QBCore HUD displaying player ID, cash, bank, job and grade, with pause-menu hiding and configurable branding. Separate from RS HUDLife.
+
+[Website](https://realitysucksrp.github.io/) | [Tebex Store](https://reality-sucks-rp-webstore.tebex.io/) | [Free Scripts](https://reality-sucks-rp-webstore.tebex.io/category/free-scripts) | [Discord](https://discord.gg/e9V3rPHySx) | [YouTube](https://www.youtube.com/@RealitySucksRP)
+
+<!-- /RS community links -->
+
 > Lightweight QBCore HUD — Player ID, Cash, Bank, Job and built-in Security Engine
 
 <p align="center">
